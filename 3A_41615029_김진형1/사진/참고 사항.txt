@@ -1,0 +1,21 @@
+Free-css.com 
+Free Web Design Template
+
+검색 엔진 등록
+( 네이버 서치 어드바이저 통해 사이트 추가 )
+사이트 소유 확인 ( html 을 복사해서 HTML 태그 쪽에 넣어준다. )
+
+사이트 소유확인
+메타태그 복사해 사이트 홈페이지 head섹션에 넣어준다.
+
+검색 엔진 최적화 
+
+robots.txt 간단 생성
+User-agent: *
+Allow:/
+Sitemap: http://kimson.netlify.com/sitemap.xml
+
+create sitemap ( XML로 생성 하도록 → 사이트 도메인 넣고 스타트 )
+
+
+kimson.netlify.app 소스 봐보기
